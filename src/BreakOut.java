@@ -11,7 +11,7 @@ import acm.util.*;
 import java.awt.*;
 import java.awt.event.*;
 import com.leapmotion.leap.*;
-
+//////
 class GTitle extends GLabel {
 
 	private int SIZE;
